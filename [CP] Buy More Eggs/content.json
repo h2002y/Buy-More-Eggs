@@ -5,9 +5,16 @@
         "Target": "Data/Shops",
         "TargetField": ["Joja", "Items"],
         "Entries": {
-            "Egg": {
+            "whiteEgg": {
                 "Id": "(O)176",
                 "ItemId": "(O)176",
+                "Price": 50,
+                "AvailableStock": 30,
+                "AvailableStockLimit": "Global"
+            }, 
+            "BrownEgg": {
+                "Id": "(O)180",
+                "ItemId": "(O)180",
                 "Price": 50,
                 "AvailableStock": 30,
                 "AvailableStockLimit": "Global"
@@ -18,7 +25,14 @@
         "Target": "Data/Shops",
         "TargetField": ["SeedShop", "Items"],
         "Entries": {
-            "Egg": {
+            "whiteEgg": {
+                "Id": "(O)176",
+                "ItemId": "(O)176",
+                "Price": 50,
+                "AvailableStock": 30,
+                "AvailableStockLimit": "Global"
+            },
+            "brownEgg": {
                 "Id": "(O)180",
                 "ItemId": "(O)180",
                 "Price": 50,
