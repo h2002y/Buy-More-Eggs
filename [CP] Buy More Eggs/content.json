@@ -9,7 +9,19 @@
                 "Id": "(O)176",
                 "ItemId": "(O)176",
                 "Price": 50,
-                "IgnoreShopPriceModifiers": "True",
+                "AvailableStock": 30,
+                "AvailableStockLimit": "Global"
+            }
+        }
+    }, {
+        "Action": "EditData",
+        "Target": "Data/Shops",
+        "TargetField": ["SeedShop", "Items"],
+        "Entries": {
+            "Egg": {
+                "Id": "(O)180",
+                "ItemId": "(O)180",
+                "Price": 50,
                 "AvailableStock": 30,
                 "AvailableStockLimit": "Global"
             }
