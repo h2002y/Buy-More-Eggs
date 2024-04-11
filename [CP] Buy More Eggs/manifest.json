@@ -1,0 +1,11 @@
+{
+    "Name": "Buy More Eggs",
+    "Author": "PPanyana",
+    "Version": "1.0.0",
+    "Description": "Adds a plate of eggs daily in Pierre's and Joja mart",
+    "UniqueID": "PPanyana.BuyMoreEggs",
+    "UpdateKeys": [],
+    "ContentPackFor": {
+        "UniqueID": "Pathoschild.ContentPatcher"
+    }
+}
