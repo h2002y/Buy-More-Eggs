@@ -9,14 +9,14 @@
                 "Id": "(O)176",
                 "ItemId": "(O)176",
                 "Price": 50,
-                "AvailableStock": 30,
+                "AvailableStock": 6,
                 "AvailableStockLimit": "Global"
             }, 
             "BrownEgg": {
                 "Id": "(O)180",
                 "ItemId": "(O)180",
                 "Price": 50,
-                "AvailableStock": 30,
+                "AvailableStock": 6,
                 "AvailableStockLimit": "Global"
             }
         }
@@ -29,14 +29,14 @@
                 "Id": "(O)176",
                 "ItemId": "(O)176",
                 "Price": 50,
-                "AvailableStock": 30,
+                "AvailableStock": 6,
                 "AvailableStockLimit": "Global"
             },
             "brownEgg": {
                 "Id": "(O)180",
                 "ItemId": "(O)180",
                 "Price": 50,
-                "AvailableStock": 30,
+                "AvailableStock": 6,
                 "AvailableStockLimit": "Global"
             }
         }
